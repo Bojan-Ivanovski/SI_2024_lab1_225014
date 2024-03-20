@@ -1,0 +1,35 @@
+commit bb63a10275e233a58c70945ede48b6c567e94523
+Author: Spark <0ivanovskibojan@gmail.com>
+Date:   Wed Mar 20 19:29:30 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 764091e18263d2c4ff041b96a7050ab8632c3ff2
+Author: Spark <0ivanovskibojan@gmail.com>
+Date:   Wed Mar 20 19:23:40 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 721fac53c75031c5534b0e97b2358c358e986c8d
+Author: Spark <0ivanovskibojan@gmail.com>
+Date:   Wed Mar 20 19:26:22 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 131614b0679762e45926024c8f8ca950868952f5
+Author: Spark <0ivanovskibojan@gmail.com>
+Date:   Wed Mar 20 19:22:41 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit faa78efea04237e089f970e284452e36c1b0eca3
+Author: Spark <0ivanovskibojan@gmail.com>
+Date:   Wed Mar 20 19:10:33 2024 +0100
+
+    Add starter code
+
+commit 8477fac43d998b9b0142e7c19485497e4c681e32
+Author: Spark <0ivanovskibojan@gmail.com>
+Date:   Wed Mar 20 19:08:44 2024 +0100
+
+    Initial commit
